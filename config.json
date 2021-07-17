@@ -1,0 +1,5 @@
+{
+  "token": "YOUR-TOKEN-HERE",
+  "prefix": "YOUR-PREFIX-HERE",
+  "mongo": "YOUR-MONGO-CONNECTION-STRING-HERE"
+}
